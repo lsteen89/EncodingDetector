@@ -23,7 +23,7 @@ namespace EncodingDetector
         static void Main(string[] args)
         {
             // Specify the directory you want to process
-            string directoryPath = @"C:\Work\p_new\p\db\script";
+            string directoryPath = @"C:\Working\directory\";
 
             // Get all files in the directory
             var fileEntries = Directory.EnumerateFiles(directoryPath);
